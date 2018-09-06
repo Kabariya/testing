@@ -9,3 +9,5 @@ Now I ma in Ubuntu Yay!
 new changes
 
 after setting
+
+new setting changes
